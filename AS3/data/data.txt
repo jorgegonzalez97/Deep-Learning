@@ -1,0 +1,10 @@
+
+The datasets are public and can be retrieved in the following links:
+
+Semeion Handwritten Digit Data Set
+
+	- https://archive.ics.uci.edu/ml/machine-learning-databases/semeion/
+
+WINE QUALITY (winequality-white)
+
+	- https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/

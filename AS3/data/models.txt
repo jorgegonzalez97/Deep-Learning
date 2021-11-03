@@ -1,0 +1,14 @@
+
+The models trained are included in the following link:
+
+- https://drive.google.com/drive/folders/1-j-sCwVIZVhel1qpSu3CwLbtKXVVLrqx?usp=sharing
+
+
+Semeion Handwritten Digit Data Set
+
+	- model_clas.h5
+
+WINE QUALITY
+
+	- model_reg.h5
+

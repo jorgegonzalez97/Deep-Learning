@@ -1,0 +1,14 @@
+
+The models trained are included in the following link:
+
+- https://drive.google.com/drive/folders/1vJQPtIk7AAvY2xzDySNAiSUZHyIA4sTo?usp=sharing
+
+
+IRIS
+
+	- iris.pkl
+
+WINE QUALITY
+
+	- wine.pkl
+

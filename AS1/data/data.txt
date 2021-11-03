@@ -1,0 +1,32 @@
+
+The datasets are included (organized by folders) in the following link:
+
+- https://drive.google.com/drive/folders/1yUtrh3B6eMzKxYBtwglKqJ2_kUC9QL0k?usp=sharing
+
+
+However, the links to their own folders are as follows:
+
+CIFAR10
+
+	- https://drive.google.com/drive/folders/1NxLT5bjDJterFzgb4usTmXGksEYChB-s?usp=sharing
+
+	or publicly in:
+
+	- https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+
+SPAMBASE
+
+	- https://drive.google.com/drive/folders/19i3SehywKaQsDya1uEfQ_qbmOIiDqtvE?usp=sharing
+
+	or publicly in:
+
+	- http://archive.ics.uci.edu/ml/machine-learning-databases/spambase/
+
+
+COMMUNITIES
+
+	- https://drive.google.com/drive/folders/1lpS5EVhxdqwExrBHQ9eJW-fLawZmM16N?usp=sharing
+
+	or publicly in:
+
+	- https://archive.ics.uci.edu/ml/machine-learning-databases/communities/

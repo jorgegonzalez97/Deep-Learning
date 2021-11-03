@@ -1,0 +1,29 @@
+
+All the data, models and the google cloab notebook can be found in the followin link:
+
+https://drive.google.com/drive/folders/1gYC8FlH7oFrNoo43hvrD0-c4CbhYLeXy?usp=sharing
+
+
+
+The datasets are included (organized by folders) in the following link:
+
+- https://drive.google.com/drive/folders/1xqtK1VcqL9CZultDeKr_0dasqGUdw12x?usp=sharing
+
+
+However, the links to their own folders are as follows:
+
+CIFAR10
+
+	- https://drive.google.com/drive/folders/1-2BGln0qIyP56S4l2GutzyjmnnsgCpC_?usp=sharing
+
+	or publicly in:
+
+	- https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+
+Cats and Dogs
+
+	- https://drive.google.com/drive/folders/1dChYe52uUbqMsgsPujKdPFhSYdqc20Pj?usp=sharing
+
+	or publicly in:
+
+	- https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip

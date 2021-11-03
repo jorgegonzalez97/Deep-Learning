@@ -1,0 +1,19 @@
+
+The models trained are included in the following link (organized by folders):
+
+- https://drive.google.com/drive/folders/1XGZ_xp4TGYRQTZ90AMQiByVsis472vq1?usp=sharing
+
+
+CIFAR-10 (https://drive.google.com/drive/folders/1-9Suqkj7vw1T0SInwZUIuMZQxHpaFrsz?usp=sharing)
+
+	- model_cifar.h5 (original)
+	- model_cifar_inc.h5 (inception block)
+	- model_cifar_res.h5 (residual blocks)
+
+Cats and Dogs (https://drive.google.com/drive/folders/1-4bQm0PAk0Y5HwU-EN31YinglQVwJcvY?usp=sharing)
+
+	- model.h5 (original)
+	- model_vgg.h5 (VGG16 frozen)
+	- model_vgg_ft.h5 (VGG16 unfrozen, fine tune)
+	- model_vgg_da.h5 (VGG16 frozen, data augmentation)
+

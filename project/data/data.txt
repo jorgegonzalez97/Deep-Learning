@@ -1,0 +1,11 @@
+
+The datasets are included in the following link:
+
+- https://drive.google.com/drive/folders/1oBwfet9roRsWlTbtq3CDj9Hh5Jp21IwI?usp=sharing
+
+
+Under the folder dataset, there are two subfolder:
+
+	- Training subset (with images and masks)
+	
+	- Validating subset (with images and masks)

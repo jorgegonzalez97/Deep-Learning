@@ -1,0 +1,19 @@
+
+The models trained are included (organized by folders) in the following link:
+
+- https://drive.google.com/drive/folders/1L9ovPmePcuexvx6TU1we690VzekAWqan?usp=sharing
+
+
+However, the links to their own folders are as follows:
+
+CIFAR10
+
+	- https://drive.google.com/drive/folders/1SLcW65Tpodt7vqFaT91U892q9ehDO3sY?usp=sharing
+
+SPAMBASE
+
+	- https://drive.google.com/drive/folders/1Z_WwmWLw4eH9Y_BW084E_hirE-YXaOC1?usp=sharing
+
+COMMUNITIES
+
+	- https://drive.google.com/drive/folders/1RUEuwF5rIWrDDvIfPcZObMdAjlvsBJIh?usp=sharing
